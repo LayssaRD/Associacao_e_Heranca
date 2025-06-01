@@ -87,16 +87,16 @@ dotnet run
 Cada exercício está organizado em uma pasta separada:
 
 ```
+├── AplicativoControleTreinos/
 ├── CadastroEscolar/
 ├── Controle_de_Veículos_e_Manutenções/
 ├── CursosOnline/
 ├── PetShopApp/
 ├── Plataforma_de_Streaming_com_Herança/
+├── Sistema_de_Recrutamento/
 ├── SistemaBiblioteca/
 ├── SistemaDeVendas/
-├── Sistema_de_Recrutamento/
-├── 
-├── 
+├── SistemaEventosCulturais/
 ```
 
 ---
