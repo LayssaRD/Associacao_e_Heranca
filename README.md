@@ -67,7 +67,7 @@ Esta Atividade Prática tem como objetivo aplicar os principais conceitos de **P
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/LayssaRD/Associacao_e_Heranca)
+git clone https://github.com/LayssaRD/Associacao_e_Heranca
 ```
 
 2. Navegue até o diretório de qualquer exercício:
